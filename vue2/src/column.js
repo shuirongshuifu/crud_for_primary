@@ -17,4 +17,8 @@ export const tableHeader = [
         propName: "remark",
         labelName: "备注",
     },
+    {
+        propName: "ctime",
+        labelName: "创建时间",
+    },
 ]
